@@ -1,7 +1,7 @@
 import React from 'react'
 import Form from 'react-bootstrap/Form';
 import {Row, Col } from 'react-bootstrap'
-import "./Contact.css";
+import "./Contacts.css";
 
 const Contact = () => {
     return (
