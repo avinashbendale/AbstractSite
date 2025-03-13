@@ -1,0 +1,48 @@
+.help {
+    /* align-items: center;
+    justify-content: center;
+    justify-items: center; */
+    height: 20rem;
+    padding: 5rem;
+}
+
+.help h1 {
+    font-size: 60px;
+}
+
+.help input {
+    padding: 10px 50px;
+    width: 50rem;
+    height: 4rem;
+    margin: 20px;
+}
+
+.helprow {
+    background-color: rgb(230, 221, 238);
+
+}
+
+.abstractcard {
+    margin-left:  200px;
+}
+
+.abstractcardCol {
+    padding-top: 60px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.abstractcardCol h3{
+    font-weight: bold;
+}
+
+.abstractcardCol li{
+    font-size: 20px;
+    padding: 2px;
+}
+
+.abstractcardRow{
+    height: 200px;
+    padding-bottom: 100px;
+}

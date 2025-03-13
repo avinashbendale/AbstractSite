@@ -1,0 +1,75 @@
+nav {
+    width: 100%;
+    background-color: black;
+}
+
+nav ul {
+    display: flex;
+    font-size: 25px;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 20px
+        /* color: white; */
+}
+
+nav ul li .link {
+    text-decoration: none;
+    padding: 10px;
+    color: white
+}
+
+.signlink{
+    text-decoration: none;
+    padding: 10px;
+    color: white
+}
+.requestbutton {
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(54, 51, 51);
+    color: white;
+    width: 100%;
+    cursor: pointer;
+    padding: 10px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.signin{
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(164, 30, 226);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.signin .signlink{
+    text-decoration: none;
+}
+.signin .signlink:hover{
+    background-color: white;
+    color: black;
+    animation: 10s;
+}
+
+.signin:hover{
+    background-color: white;
+    color: black;
+    animation: 10s;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 250px;
+    padding-top: 20px;
+}
+
+.footer .link{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}

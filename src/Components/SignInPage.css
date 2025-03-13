@@ -1,0 +1,27 @@
+.signinpage {
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    padding: 20px;
+}
+
+
+.signinpage .signinpagebox {
+    margin: 0px auto;
+    max-width: 30rem;
+    height: auto;
+    background-color: rgb(231, 238, 236);
+    padding: 90px;
+
+}
+
+.signinpage .signinpagebox label {
+    font-size: 20px;
+    padding: 3px;
+}
+
+.signinpage .signinpagebox button {
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+}

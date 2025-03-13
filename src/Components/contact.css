@@ -1,0 +1,18 @@
+.contactbox{
+    margin:20px;
+    padding: 20px;
+}
+.contact{
+    border: 2px solid rgb(196, 181, 181);
+    width: 30rem;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    padding: 30px;
+    margin: auto;
+    background-color: rgb(227, 238, 238);
+}
+
+.contact button{
+    display: inline-flex;
+}
